@@ -1,4 +1,4 @@
-refraction index
+#refraction index
 
 this python script is designed to calculate n and k, the components of the complex refractive index, which can be derived from the real and imaginary parts of the dielectric matrix. The dielectric matrix is derived from the optical properties calculation using VASP. 
 
